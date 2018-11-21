@@ -1,0 +1,120 @@
+[{
+   
+    "id":1,
+    "divs":[
+        {
+            "title":"Graph1",
+            "graph":"line",
+            "linecolor":"orange",
+            "rt":"RT",
+            "data":[{
+                "year": "1991",
+                "value": 6
+              },
+              {
+                "year": "1992",
+                "value":4
+              },
+              {
+                "year": "1993",
+                "value":6
+              },
+              {
+                "year": "1994",
+                "value":3
+              },
+              {
+                "year": "1995",
+                "value": 2
+              }]
+        },
+        {
+            "title":"Graph2",
+            "graph":"line",
+            "linecolor":"red",
+            "data":[{
+                "year": "1991",
+                "value": 6
+              },
+              {
+                "year": "1992",
+                "value":4
+              },
+              {
+                "year": "1993",
+                "value":6
+              },
+              {
+                "year": "1994",
+                "value":3
+              },
+              {
+                "year": "1995",
+                "value": 2
+              }]
+        },
+        {
+            "title":"Graph3",
+            "graph":"line",
+            "linecolor":"green",
+            "rt":"RT",
+            "data":[{
+                "year": "1991",
+                "value": 6
+              },
+              {
+                "year": "1992",
+                "value":4
+              },
+              {
+                "year": "1993",
+                "value":6
+              },
+              {
+                "year": "1994",
+                "value":3
+              },
+              {
+                "year": "1995",
+                "value": 2
+              }]
+        }
+    ]
+
+
+},
+{
+   
+    "id":2,
+    "graph":"line",
+    "divs":[
+        {
+            "title":"Main Graph",
+            "graph":"line",
+            "linecolor":"steelblue",
+            "data":[{
+                "year": "1991",
+                "value": 6
+              },
+              {
+                "year": "1992",
+                "value":4
+              },
+              {
+                "year": "1993",
+                "value":6
+              },
+              {
+                "year": "1994",
+                "value":3
+              },
+              {
+                "year": "1995",
+                "value": 2
+              }]
+        }
+    ]
+
+
+}
+]
