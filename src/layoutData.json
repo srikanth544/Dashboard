@@ -7,6 +7,8 @@
             "graph":"line",
             "linecolor":"orange",
             "rt":"RT",
+            "source":"table_name",
+            "columns":["columnname"],
             "data":[{
                 "year": "1991",
                 "value": 6
@@ -32,6 +34,8 @@
             "title":"Graph2",
             "graph":"line",
             "linecolor":"red",
+            "source":"table_name",
+            "columns":["columnname"],
             "data":[{
                 "year": "1991",
                 "value": 6
@@ -55,8 +59,10 @@
         },
         {
             "title":"Graph3",
-            "graph":"line",
+            "graph":"pie",
             "linecolor":"green",
+            "source":"table_name",
+            "columns":["columnname"],
             "rt":"RT",
             "data":[{
                 "year": "1991",
@@ -92,6 +98,8 @@
             "title":"Main Graph",
             "graph":"line",
             "linecolor":"steelblue",
+            "source":"table_name",
+            "columns":["columnname"],
             "data":[{
                 "year": "1991",
                 "value": 6
